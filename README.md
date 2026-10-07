@@ -1,5 +1,3 @@
-# IncorpCycle — espelho
+# IncorpCycle — Backup
 
-Cópia espelho da versão de produção do site IncorpCycle.
-
-Domínio planejado: `www.incorpcycle.com`
+Cópia espelho do site IncorpCycle. Não deve reivindicar o domínio de produção enquanto for backup.
